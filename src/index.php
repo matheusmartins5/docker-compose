@@ -1,8 +1,8 @@
 <?php
 $host = 'mysql';
-$user = 'root';
-$pass = 'root';
-$db = 'dockercompose';
+$user = 'meu_usuario';
+$pass = 'minha_senha';
+$db = 'meu_banco';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
